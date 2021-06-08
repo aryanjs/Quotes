@@ -10,6 +10,8 @@
 
 # production
 /build
+.firebaserc
+firebase.json
 
 # misc
 .DS_Store
@@ -25,5 +27,3 @@ yarn-debug.log*
 yarn-error.log*
 
 
-.firebaserc
-firebase.json
